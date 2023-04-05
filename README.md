@@ -1,8 +1,7 @@
 # Analytic-Table
  This is a Analytic table assignment project for frontend developer role at **GreedyGame**
  
- ![<img width="942" alt="analytics-table" src="https://user-images.githubusercontent.com/79650422/230121214-c774be5d-686d-491f-a409-b5ca16c9dfce.png">
-]
+ <img width="942" alt="analytics-table" src="https://user-images.githubusercontent.com/79650422/230121214-c774be5d-686d-491f-a409-b5ca16c9dfce.png">
  
 # Table of Contents
 *Installation
