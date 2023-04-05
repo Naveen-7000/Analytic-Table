@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  display: flex;
+  height: min-content;
+}
+
+.App::-webkit-scrollbar {
+  display: none;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+nav a{
+  color: #FFFFFF;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+nav{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  min-height: 100vh;
+  background-color: #192F48;
+}
+
+a:hover{
+  opacity: 0.5;
+}
+
+.navitem{
+  margin : 5px 0;
+  width: "100%";
+}
