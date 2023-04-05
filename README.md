@@ -23,7 +23,6 @@ cd Analytic-Table
 npm install or yarn add or yarn
 
 ```
-
 # Usage
 
 To run the project here is following command : 
